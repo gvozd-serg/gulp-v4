@@ -1,0 +1,1 @@
+function firstFunction(n,o){console.log(1231)}function secondFunction(){console.log("adfsgd")}
